@@ -16,7 +16,7 @@ a specific subset from a source image that ideally shows only 1 creature
 - Machine_ID
 
 # Track
-a sequence of continuous detections
+a time-sequence of continuous detections
 
 # Source Image
 This is a photograph that can have different types of backgrounds and may contain one or more target species
@@ -29,6 +29,15 @@ a continuous series of Source Images
 # Deployment
 a collection of sessions that starts when a device is left in a location and ends when the device is removed from that location
 
+# Device
+A machine that performs some kind of automated observation task
+
+# Target
+The part of a device being directly observed where insects are intended to go towards for observation. For instance the device might have a "target sheet" that insects land on, or the target might instead be a tube, or an artificial flower.
+
+# Attractor
+Generic name for the specific stimulus used to lure creatures. Could be chemical, visual, auditory.
+
 # Device Location 
 a very specific spot where a device is deployed (likely has attributes like a GPS coordinate and maybe a description of its exact spot like "left palm tree next to lake" or values like like "height above ground")
 
@@ -38,8 +47,7 @@ area being surveyed by a device. Might have a gps coordinate and a radius? Autom
 # Protocol
 The method in which a task was carried out. Can be applied to a deployment, session, capture, detection.
 
-# Attractor
-Generic name for the specific stimulus used to lure creatures. Could be chemical, visual, auditory.
+
 
 
 
