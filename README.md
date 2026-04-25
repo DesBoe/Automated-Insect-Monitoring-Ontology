@@ -105,5 +105,5 @@ Working towards a data standard or data schema for devices that try to image art
 - localisation
 - record
 
-## Visual overview
+## Visual Overview of some terms from Donald Hobern
 ![Untitled](https://github.com/user-attachments/assets/d753fdad-41ea-48e8-9fd5-762c5404a9f0)
